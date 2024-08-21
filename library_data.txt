@@ -1,0 +1,6 @@
+1,Cuốn sách đầu tiên,Tác giả A,Thể loại X,2024,1,0,0
+2,Cuốn sách thứ hai,Tác giả B,Thể loại Y,2024,0,1723381480,0
+3,Cuốn sách thứ ba,Tác giả A,Thể loại X,2024,1,0,0
+4,Cuốn sách thứ tư,Tác giả C,Thể loại Z,2024,0,1724245480,0
+1,Nguyễn Văn A,a@gmail.com,0123456789,2,4
+2,Trần Thị B,b@gmail.com,0987654321
